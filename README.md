@@ -5,6 +5,6 @@
 - 📫 How to reach me e: abdullah-alqassimi@hotmail.com or m:+971553712121
 
 <!---
-ASKayed/ASKayed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ASKayed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
